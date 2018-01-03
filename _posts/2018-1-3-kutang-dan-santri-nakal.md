@@ -8,9 +8,7 @@ color: '#637a91'
 tags:
 twitter_text: ""
 introduction: ""
-
 ---
-
 
 
 Setelah menempuh pendidikan pesantren di Tegalrejo, Magelang. Gus Dur diminta pamannya Kiai Abdul Fattah Hasyim, untuk membantu mengurus Pondok Pesantren Bahrul Ulum Tambakberas di Jombang pada 1959. Usia Gus Dur saat itu sudah hampir 20 tahun. 

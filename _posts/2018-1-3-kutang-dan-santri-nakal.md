@@ -6,8 +6,9 @@ description: ""
 main-class: 'inspirasi'
 color: '#637a91'
 tags:
-twitter_text: ""
+twitter_text: "Favicons, touch icons e tile icons..."
 introduction: ""
+
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KUTANG, SANTRI NAKAL, DAN GUS DUR"
-date: 2018-01-0321:31:05
+date: 2018-01-03 21:31:05
 description: ""
 main-class: 'dev'
 color: '#637a91'

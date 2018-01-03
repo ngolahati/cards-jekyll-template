@@ -3,7 +3,7 @@ layout: post
 title: "KUTANG, SANTRI NAKAL, DAN GUS DUR"
 date: 2018-01-03 21:31:05
 description: ""
-main-class: 'dev'
+main-class: 'inspirasi'
 color: '#637a91'
 tags:
 twitter_text: "Favicons, touch icons e tile icons..."

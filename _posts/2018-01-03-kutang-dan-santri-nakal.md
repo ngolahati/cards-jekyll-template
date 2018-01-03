@@ -7,7 +7,7 @@ main-class: 'cerita'
 color: '#637a91'
 tags:
 twitter_text: "Favicons, touch icons e tile icons..."
-introduction: ""
+introduction: "Kisah seorang Gus Dur ketika menjadi keamanan ketika di Pondok Pesantren"
 
 ---
 
